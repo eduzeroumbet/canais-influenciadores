@@ -21,7 +21,7 @@ h1 { font-size: 20px; margin: 0 0 2px; letter-spacing: -0.02em; }
   vertical-align: 1px;
 }
 .botao {
-  display: block; text-align: center; text-decoration: none; background: var(--accent); color: #fff;
+  display: block; text-align: center; text-decoration: none; background: #229ED9; color: #fff;
   font-weight: 700; border-radius: 10px; padding: 14px 16px; margin-top: 12px; font-size: 16px;
 }
 .botao.pequeno { display: inline-block; padding: 8px 12px; font-size: 13px; margin-top: 8px; }
@@ -58,7 +58,7 @@ footer a { color: #00376b; }
   z-index: 5;
 }
 .barra span { font-size: 13px; }
-.barra strong { background: var(--accent); color: #fff; border-radius: 999px; padding: 10px 14px; font-size: 14px; white-space: nowrap; }
+.barra strong { background: #229ED9; color: #fff; border-radius: 999px; padding: 10px 14px; font-size: 14px; white-space: nowrap; }
 .home { padding: 28px 16px 40px; background: #fff; min-height: 100vh; }
 .home h1 { font-size: 32px; margin: 6px 0 20px; }
 .kicker { text-transform: uppercase; letter-spacing: .08em; font-size: 12px; color: var(--cinza); margin: 0; }
